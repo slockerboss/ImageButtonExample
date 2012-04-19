@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">ImageBut yuxample</string>
+    <string name="Bienvenida">Bienvenid@</string>
+    <string name="TitleDescripcion">Descripcion</string>
+    <string name="Descripcion">Actividad de ejemplo del control "ImageButton"</string>
+    <string name="TitleInstrucciones">Instrucciones</string>
+    <string name="Instrucciones">Pinxa en el careto, o en el altavoz</string>
+
+</resources>
